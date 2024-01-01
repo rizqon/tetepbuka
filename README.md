@@ -9,7 +9,7 @@ One to two paragraph statement about your product and what it does.
 
 ![](header.png)
 
-## Installations
+## Installation
 
 OS X & Linux:
 
